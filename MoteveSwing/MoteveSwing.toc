@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: |cff7fd8ffMo|r|cffa88bffteve|r Swing
+## Notes: Swing timer in the Moteve style: main hand, off-hand and ranged.
+## Notes-huHU: Swing timer Moteve-stílusban: fő kéz, off-hand és távolsági.
+## Author: Zoltán Gosztonyi
+## Version: 0.2.1
+## SavedVariables: MoteveSwingDB
+
+Theme.lua
+Swing.lua
